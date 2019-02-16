@@ -1,0 +1,53 @@
+.droite{
+    left:50%;
+    position: fixed;
+    top: 50px;
+    right: 0;
+    bottom: 0;
+    
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url('https://infoassurance.ca/CMSPages/GetFile.aspx?guid=3a52bb95-4d1b-447f-b5bf-71cf05b4a27c');
+    background-repeat:repeat;
+}
+
+.gauche{
+    right: 50% ;
+   
+    position: fixed;
+    top: 50px;
+    left: 0;
+    bottom: 0;
+    
+    background-size: cover;
+    background-position: 90% 30%;
+    background-image: url('https://www.plombierpascherparis13.paris/user/pages/images/installation-robinet.jpg');
+    background-repeat:repeat;
+    opacity:0.9;
+}
+.btn-bien {
+    margin-top: 300px;
+	background-color: #1CB94E;
+	outline: none;
+	color: #fff;
+	font-size: 14px;
+    height: auto;
+    
+	font-weight: normal;
+	padding: 14px 0;
+	text-transform: uppercase;
+	border-color: #1CB94A;
+}
+.btn-bien:hover,
+.btn-bien:focus {
+	color: #fff;
+	background-color: #1CA347;
+	border-color: #1CA347;
+}
+
+.link{
+   
+    color: #FF0000;
+    
+    
+}

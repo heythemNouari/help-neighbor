@@ -1,0 +1,26 @@
+
+/* author : Nouari Heythem */
+table
+
+{
+	margin-top: 100px;
+	margin-left: 100px;
+    border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+
+}
+
+td
+
+{
+
+    border: 1px solid black;
+
+}
+h3
+{
+	color: red;
+}
+.container{
+height: 100%;
+align-content: center;
+}
